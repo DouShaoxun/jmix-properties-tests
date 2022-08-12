@@ -1,0 +1,19 @@
+.jmix
+.idea
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+*.class
+*.log
+### IntelliJ IDEA ###
+.idea/*
+!.idea/encodings.xml
+*.iws
+*.iml
+*.ipr
+out/
+
+### VS Code ###
+.vscode/
